@@ -19,7 +19,7 @@ For GUI:
 3. Select “Internet Protocol Version 4 (TCP/IPv4)” and click on “Properties”
 4. configure the device
 
-![Untitled](Setting%20up%20Network%20Configuration%208c7fa2467b0c4408923cdcfcc2689b70/Untitled.png)
+![Untitled](Setting%20up%20Network%20Configuration%images/Untitled.png)
 
 # Linux:
 
@@ -36,7 +36,7 @@ For GUI:
 
 sudo apt install network-manager
 
-![Untitled](Setting%20up%20Network%20Configuration%208c7fa2467b0c4408923cdcfcc2689b70/Untitled%201.png)
+![Untitled](Setting%20up%20Network%20Configuration%images/Untitled%201.png)
 
 # MAC:
 
@@ -57,4 +57,4 @@ For GUI:
 4. Set IP and click “Advanced” → DNS → click + and add DNS
 5. Go back and click apply
 
-![Untitled](Setting%20up%20Network%20Configuration%208c7fa2467b0c4408923cdcfcc2689b70/Untitled%202.png)
+![Untitled](Setting%20up%20Network%20Configuration%images/Untitled%202.png)
